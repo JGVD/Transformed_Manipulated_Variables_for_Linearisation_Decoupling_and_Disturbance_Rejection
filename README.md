@@ -1,6 +1,7 @@
 # Transformed Manipulated Variables for Linearisation, Decoupling, and Disturbance Rejection
 
 Project by: Jacobus George van Dyk (vandyk@sun.ac.za, SU number: 20790147)
+
 Project supervised by: Prof Steven M. Bradshaw (smb@sun.ac.za)
 
 Project Description and Objectives
