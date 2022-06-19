@@ -1,0 +1,2 @@
+# Transformed_Manipulated_Variables_for_Linearisation_Decoupling_and_Disturbance_Rejection
+Many methods have been developed for controlling non-linear systems, which include controller design based on linearised models, adaptive control, and non-linear model predictive control. The objective of this project is to investigate the performance of a new method developed by Skogestad and co-workers (Zotică et al., 2020) that uses transformed manipulated variables for linearisation, decoupling, and perfect steady state disturbance rejection.
